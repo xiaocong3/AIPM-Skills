@@ -1,5 +1,7 @@
 # AIPM+ Skills 工具箱
 
+> 定制作者：**小葱（@xiaocong3）** —— 在 AI 产品实践中沉淀的 AI 产品经理 Skills 工具箱。
+
 一套为 AI 产品经理打造的 Claude Skills，覆盖从灵感发现、商业判断、需求分析、项目规范到求职上岗的完整链路。
 
 ## 为什么做这套 Skills？
